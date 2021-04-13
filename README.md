@@ -1,6 +1,6 @@
 ## Welcome
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luoyuctl)<img src="triangle.gif" width="19.5%" height="19.5%" />
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luoyuctl)<img src="keli.gif" width="17%" height="17%" />
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=luoyuctl&show_icons=true)
 
